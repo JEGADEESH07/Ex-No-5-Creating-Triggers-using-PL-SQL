@@ -30,7 +30,7 @@ CREATE TABLE sal_log (
   update_date DATE
 );
 -- Insert the values in the employee table
-insert into employed values(1,'Nagul','AIDS',1000000);
+insert into employed values(1,'Jegadeesh','AIDS',1000000);
 insert into employed values(2,'Santhosh','CSE',500000)
 
 ```
@@ -54,7 +54,7 @@ BEGIN
 END;
 /
 -- Insert the values in the employee table
-insert into employed values(1,'Nagul','AIDS',1000000);
+insert into employed values(1,'Jegadeesh','AIDS',1000000);
 insert into employed values(2,'Santhosh','SALES',500000);
 
 -- Update the salary of an employee
@@ -70,7 +70,7 @@ SELECT * FROM sal_log;
 
 ### Output:
 ![WhatsApp Image 2023-09-26 at 22 29 52](https://github.com/DhanushPalani/Ex-No-5-Creating-Triggers-using-PL-SQL/assets/121594640/98d6405f-b231-485b-b7c5-38e605977906)
-![Screenshot 2023-09-27 155015](https://github.com/Nagul71/Ex-No-5-Creating-Triggers-using-PL-SQL/assets/118661118/789b4d02-718d-4f9c-b4e3-defb7a76c0ef)
+![270947264-789b4d02-718d-4f9c-b4e3-defb7a76c0ef](https://github.com/JEGADEESH07/Ex-No-5-Creating-Triggers-using-PL-SQL/assets/113497131/0613a8a3-e527-4616-b4f1-99b64d6fa2ed)
 
 
 ### Result:
